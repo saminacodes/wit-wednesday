@@ -38,9 +38,9 @@ Stay tuned for more information.
   
 ## Roadmap
 
-May - Aug 2021 | Sep - Dec 2021
------------- | -------------
-MVP Frontend | MVP Backend
+May - Aug 2021 | Sep - Dec 2021  | Jan- Feb 2022     | Feb 2022 +      |
+-------------- | --------------- | ----------------- | --------------- |
+MVP Frontend   | MVP Backend     | Official Release  | Feature updates |
   
 ## Installation 
 
