@@ -38,10 +38,9 @@ Stay tuned for more information.
   
 ## Roadmap
 
-- Summer 2021 - develop frontend and have website go live
-
-
-
+May - Aug 2021 | Sep - Dec 2021
+------------ | -------------
+MVP Frontend | MVP Backend
   
 ## Installation 
 
