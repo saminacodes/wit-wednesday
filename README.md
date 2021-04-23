@@ -45,12 +45,7 @@ Stay tuned for more information.
   
 ## Installation 
 
-Install my-project with npm
-
-```bash 
-  npm install my-project
-  cd my-project
-```
+See contributing.md file
     
 ## Authors and Acknowledgement
 
