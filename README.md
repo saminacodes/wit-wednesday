@@ -1,12 +1,64 @@
-# wit-wednesday
-Open source project for wit-wednesday.com... a central hub and resource for the women in tech community.
 
-### Goals (Long and short term)
-1. Create a page to spotlight various members of the women in tech community every wednesday. This page will also have a long list of previously featured members as well.
-2. Create a page to highlight recent videos, blogs, and other forms of content from affiliated members.
-3. Create a mentorship application for both mentors and mentees within the community.
+# WIT Wednesday
 
-### Tech-Stack
-- React and MaterialUI
-- basic knowledge of HTML,CSS,JavaScript
-- Eventually dive into backend once we create an MVP
+This is an open source project for Women In Tech created to spotlight
+community leaders and help women find mentors + peers 
+in the tech industry.
+
+
+## Demo
+
+(currently offline) https://wit-wednesday.com
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+  
+## Tech Stack
+
+**Client:** React, Material-UI
+
+**Server:** To be determined...
+
+  
+## FAQ
+
+#### When did you start this project?
+
+This project officially began in January 2021.
+
+#### How can I be spotlighted on this project?
+
+Stay tuned for more information.
+
+  
+## Roadmap
+
+- Summer 2021 - develop frontend and have website go live
+
+
+
+  
+## Installation 
+
+Install my-project with npm
+
+```bash 
+  npm install my-project
+  cd my-project
+```
+    
+## Authors and Acknowledgement
+
+- [@saminacodes](https://www.github.com/saminacodes) for design.
+
+  
+## Support
+
+For support, email contact@samina.codes or join our Discord channel.
+
+  
