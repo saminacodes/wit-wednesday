@@ -2,8 +2,8 @@
 
 # Table of Contents
 
-1. [Short Links to Important Resources](# Short Links to Important Resources:)
-2. [Where can I ask for help?](# Where can I ask for help?)
+1. [Short Links to Important Resources](#Short-Links-to-Important-Resources:)
+2. [Where can I ask for help?](#Where-can-I-ask-for-help?)
 
 # Short Links to Important Resources:
 
