@@ -59,6 +59,5 @@ Install my-project with npm
   
 ## Support
 
-For support, email contact@samina.codes or join our Discord channel.
-
+For support, email contact@samina.codes or join our [Discord](https://discord.gg/QsSpBwgmER).
   
