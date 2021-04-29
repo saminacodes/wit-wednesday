@@ -3,7 +3,7 @@
 
 This is an open source project for Women In Tech created to spotlight
 community leaders and help women find mentors + peers 
-in the tech industry. Testing Testing 1 2 3...
+in the tech industry.
 
 
 ## Demo
@@ -13,7 +13,7 @@ in the tech industry. Testing Testing 1 2 3...
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See `CONTRIBUTING.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
@@ -42,9 +42,9 @@ May - Aug 2021 | Sep - Dec 2021  | Jan- Feb 2022     | Feb 2022 +      |
 -------------- | --------------- | ----------------- | --------------- |
 MVP Frontend   | MVP Backend     | Official Release  | Feature updates |
   
-## Installation 
+## Getting Started + Installation
 
-See contributing.md file
+See CONTRIBUTING.md file
     
 ## Authors and Acknowledgement
 
