@@ -48,9 +48,9 @@ See contributing.md file
     
 ## Authors and Acknowledgement
 
-- [@saminacodes](https://www.github.com/saminacodes) for design.
+- [@aryanN1](https://www.github.com/aryanN1)
+- [@saminacodes](https://www.github.com/saminacodes)
 
-  
 ## Support
 
 For support, email contact@samina.codes or join our [Discord](https://discord.gg/QsSpBwgmER).
