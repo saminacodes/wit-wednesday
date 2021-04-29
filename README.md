@@ -13,7 +13,7 @@ in the tech industry.
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See `CONTRIBUTING.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
@@ -38,25 +38,19 @@ Stay tuned for more information.
   
 ## Roadmap
 
-- Summer 2021 - develop frontend and have website go live
-
-
-
+May - Aug 2021 | Sep - Dec 2021  | Jan- Feb 2022     | Feb 2022 +      |
+-------------- | --------------- | ----------------- | --------------- |
+MVP Frontend   | MVP Backend     | Official Release  | Feature updates |
   
-## Installation 
+## Getting Started + Installation
 
-Install my-project with npm
-
-```bash 
-  npm install my-project
-  cd my-project
-```
+See CONTRIBUTING.md file
     
 ## Authors and Acknowledgement
 
-- [@saminacodes](https://www.github.com/saminacodes) for design.
+- [@aryanN1](https://www.github.com/aryanN1)
+- [@saminacodes](https://www.github.com/saminacodes)
 
-  
 ## Support
 
 For support, email contact@samina.codes or join our [Discord](https://discord.gg/QsSpBwgmER).
