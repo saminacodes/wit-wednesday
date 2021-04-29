@@ -2,8 +2,13 @@
 
 # Table of Contents
 
-1. [Short Links to Important Resources](#Short-Links-to-Important-Resources:)
-2. [Where can I ask for help?](#Where-can-I-ask-for-help?)
+1. [Short Links to Important Resources](#Short-Links-to-Important-Resources)
+2. [Testing](#Testing)
+3. [Environment Details](#)
+4. [Where can I ask for help?](#Where-can-I-ask-for-help?)
+5.
+6.
+7.
 
 # Short Links to Important Resources:
 
@@ -11,7 +16,7 @@ docs: handbook / roadmap
 bugs:
 comms:
 
-# Testing:
+# Testing
 
 TBD
 
